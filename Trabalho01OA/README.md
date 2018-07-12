@@ -71,12 +71,6 @@
   ```
 
 ##### Execução do Trabalho 01
-   * clonar esse repositório via o git 
-   * criar o banco de dados imdb no mysql 
-   * definir o esquema do banco de dados (verificar o script em conf/evolutions/1.sql)
-   * executar o sbt (isso no diretório raiz do projeto) 
-   * no shell do sbt, executar "run" 
-   * acessar o projeto em http://localhost:9000  
 - Clonar o repositório via git e acessá-lo utilizando
   ```
   git clone https://github.com/lmarianow/OrganizaçãoDeArquivos2018.1_UnB.git

@@ -70,7 +70,7 @@ Lista 2
 ##### Execução do Trabalho 01
 - Clonar o repositório via git e acessá-lo utilizando
   ```
-  git clone https://github.com/lmarianow/OrganizaçãoDeArquivos2018.1_UnB.git
+  git clone https://github.com/LMarianow/OrganizacaoDeArquivos2018.1_UnB.git
   ```
   ```
   cd OrganizaçãoDeArquivos2018.1_UnB

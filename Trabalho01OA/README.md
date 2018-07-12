@@ -73,7 +73,7 @@ Lista 2
   git clone https://github.com/LMarianow/OrganizacaoDeArquivos2018.1_UnB.git
   ```
   ```
-  cd OrganizaçãoDeArquivos2018.1_UnB
+  cd OrganizacaoDeArquivos2018.1_UnB
   ```
   ```
   cd Trabalho01OA

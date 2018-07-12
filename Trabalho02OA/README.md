@@ -53,7 +53,7 @@ Vania Schowantz Silva                    27667  CC  B
   git clone https://github.com/LMarianow/OrganizacaoDeArquivos2018.1_UnB.git
   ```
   ```
-  cd OrganizaçãoDeArquivos2018.1_UnB
+  cd OrganizacaoDeArquivos2018.1_UnB
   ```
   ```
   cd Trabalho02OA

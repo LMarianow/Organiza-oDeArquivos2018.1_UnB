@@ -18,7 +18,6 @@
 
 ##### Listas
 - Lista 1
-
   ```
 024312 Leonardo Nunes de Souza                  32  EC       A
 031272 Andreza Pollyana da Silva                32  EC       A
@@ -43,7 +42,6 @@
   ```
 
 - Lista 2 
-
   ```
 015511 Angelo Luiz Rocatto Junior               34  CC       B
 031147 Anderson Silva Bezerra                   34  EC       B

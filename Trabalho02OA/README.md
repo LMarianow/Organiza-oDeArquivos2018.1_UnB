@@ -1,21 +1,21 @@
 # UNB / Organização de Arquivos - 2018/01
-### Trabalho 02 Indexação de Arquivos Utilizando BTree
+## Trabalho 02 Indexação de Arquivos Utilizando BTree
 
-##### Professor 
+### Professor 
 - Camilo Dórea
 
-##### Alunos
+### Alunos
 - Lucas Mariano Carvalho - 16/0133661
 - Heitor de Lima Belém - 16/0123950
 
-##### Objetivos
+### Objetivos
 - Gerar Índices Primários
 - Inclusão de novos Registros
 - Exclusão de Registros
 - Ordenação dos Registros e dos índices
 - Busca de Registros
 
-##### Lista
+### Lista
 
   ```
 Carlos Dias Takase                       62364  EM  A
@@ -47,7 +47,7 @@ Vania Schowantz Silva                    27667  CC  B
 
   ```
 
-##### Execução do Trabalho 02
+### Execução do Trabalho 02
 - Clonar o repositório via git e acessá-lo utilizando
   ```
   git clone https://github.com/LMarianow/OrganizacaoDeArquivos2018.1_UnB.git
@@ -69,7 +69,7 @@ Vania Schowantz Silva                    27667  CC  B
   ./Trabalho02
   ```
 
-##### Exemplo de saída
+### Exemplo de saída
 - Apenas uma imagem de exemplo de execução do projeto.
 
 Menu de opções:

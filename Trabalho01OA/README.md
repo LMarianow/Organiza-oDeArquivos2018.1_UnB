@@ -1,14 +1,14 @@
 # UNB / Organização de Arquivos - 2018/01
-### Trabalho 01 Indexação de Arquivos
+## Trabalho 01 Indexação de Arquivos
 
-##### Professor 
+### Professor 
 - Camilo Dórea
 
-##### Alunos
+### Alunos
 - Lucas Mariano Carvalho - 16/0133661
 - Heitor de Lima Belém - 16/0123950
 
-##### Objetivos
+### Objetivos
 - Gerar Índices Primários e Secundários
 - Inclusão de novos Registros
 - Exclusão de Registros
@@ -16,7 +16,7 @@
 - Atualização de Registros
 - Intercalação (merge) das duas listas.
 
-##### Listas
+### Listas
 Lista 1
   ```
 024312 Leonardo Nunes de Souza                  32  EC       A
@@ -67,7 +67,7 @@ Lista 2
 
   ```
 
-##### Execução do Trabalho 01
+### Execução do Trabalho 01
 - Clonar o repositório via git e acessá-lo utilizando
   ```
   git clone https://github.com/LMarianow/OrganizacaoDeArquivos2018.1_UnB.git
@@ -89,7 +89,7 @@ Lista 2
   ./Trabalho01
   ```
 
-##### Exemplo de saída
+### Exemplo de saída
 - Apenas uma imagem de exemplo de execução do projeto.
 
 Menu de opções:

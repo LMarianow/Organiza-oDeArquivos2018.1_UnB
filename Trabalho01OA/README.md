@@ -5,8 +5,8 @@
 - Camilo Dórea
 
 ##### Alunos
-- Lucas Mariano Carvalho 16/0133661
-- Heitor de Lima Belém   16/0123950
+- Lucas Mariano Carvalho - 16/0133661
+- Heitor de Lima Belém - 16/0123950
 
 ##### Objetivos
 - Gerar Índices Primários e Secundários

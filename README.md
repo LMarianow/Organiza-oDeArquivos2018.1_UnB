@@ -4,4 +4,4 @@ Repositório para armazenar todos os trabalhos práticos realizados na disciplin
 
 ## Licença
 
-Os Trabalhos realizados nesta disciplina estão sobre a licença do MIT - Veja em [LICENSE.md](LICENSE.md) para mais detalhes.
+Os Trabalhos realizados nesta disciplina estão sobre a licença do MIT - Veja em [LICENSE](LICENSE.md) para mais detalhes.
